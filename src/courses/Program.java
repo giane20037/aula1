@@ -41,7 +41,8 @@ public class Program {
 		else {
 			System.out.println("Large area: Y");
 		}
-					
+			
+		System.out.println("Fim do programa");
 		sc.close();
 
 	}
